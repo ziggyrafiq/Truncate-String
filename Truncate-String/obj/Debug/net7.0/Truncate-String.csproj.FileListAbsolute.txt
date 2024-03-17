@@ -1,0 +1,15 @@
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\bin\Debug\net7.0\Truncate-String.exe
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\bin\Debug\net7.0\Truncate-String.deps.json
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\bin\Debug\net7.0\Truncate-String.runtimeconfig.json
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\bin\Debug\net7.0\Truncate-String.dll
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\bin\Debug\net7.0\Truncate-String.pdb
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\obj\Debug\net7.0\Truncate-String.csproj.AssemblyReference.cache
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\obj\Debug\net7.0\Truncate-String.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\obj\Debug\net7.0\Truncate-String.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\obj\Debug\net7.0\Truncate-String.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\obj\Debug\net7.0\Truncate-String.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\obj\Debug\net7.0\Truncate-String.dll
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\obj\Debug\net7.0\refint\Truncate-String.dll
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\obj\Debug\net7.0\Truncate-String.pdb
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\obj\Debug\net7.0\Truncate-String.genruntimeconfig.cache
+E:\GitHub\Articles-Posts\C#\Truncate-String\Truncate-String\obj\Debug\net7.0\ref\Truncate-String.dll
